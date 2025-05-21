@@ -1,0 +1,39 @@
+name: GenerateSnake
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+
+jobs:
+  update-repository:
+    name: Update this repo's README with repository_owner
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        id: snake-gif
+        with:
+          github_user_name: saitojo1106
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg
+
+      - name: Create img directory if it doesn't exist
+        run: mkdir -p img
+        
+      - name: Move SVGs to img directory
+        run: |
+          cp dist/snake.svg img/snake.svg
+          cp dist/snake-dark.svg img/snake-dark.svg
+          
+      - name: Push to Github
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'img/snake.svg img/snake-dark.svg'
+          message: ':rocket: Update'
+          push: true
