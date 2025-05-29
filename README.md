@@ -1,3 +1,4 @@
+<h1 align="center">🌸 Welcome to reireu's repo 🌸</h1>
 used before<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,ruby,python,postgres)](https://skillicons.dev)<br>
 wants to learn<br>
