@@ -18,13 +18,13 @@ detail is on https://github.com/reireu/rei-profile
 
 <div align="center">
 
-### 加油
+### Cholo
 
-**🇨🇳**
+**🇧🇩**
 
-*ジアヨウ*
+*チョロ*
 
-**「がんばって！の応援フレーズ」**
+**「行こう（親しみを込めて使う）」**
 
 </div>
 
