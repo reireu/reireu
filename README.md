@@ -1,7 +1,8 @@
 <h1 align="center">🌸 Welcome to reireu's repo 🌸</h1>
 
-Datascience student
-<strong>detail is on https://github.com/reireu/rei-profile</strong>
+Datascience student<br>
+<strong>detail is on https://github.com/reireu/rei-profile</strong><br>
+
 used before<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,ruby,python,postgres)](https://skillicons.dev)<br>
 wants to learn<br>
