@@ -1,6 +1,6 @@
 <h1 align="center">🌸 Welcome to reireu's repo 🌸</h1>
 
-Datascience student<br>
+Data science student interested in writing code that makes life a little easier<br>
 <strong>detail is on https://github.com/reireu/rei-profile</strong><br>
 
 used before<br>
