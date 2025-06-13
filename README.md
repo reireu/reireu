@@ -21,13 +21,13 @@ wants to learn<br>
 
 <div align="center">
 
-### Cholo
+### Dépaysement
 
-**🇧🇩**
+**🇫🇷**
 
-*チョロ*
+*デペイゾマン*
 
-**「行こう（親しみを込めて使う）」**
+**「非日常感、新鮮さ」**
 
 </div>
 
