@@ -26,7 +26,7 @@ jobs:
         pip install pandas
         
     - name: Update daily word
-      run: python scripts/update_daily_word.py
+      run: python update_daily_word.py
       
     - name: Commit and push changes
       run: |
