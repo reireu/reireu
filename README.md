@@ -11,19 +11,19 @@ wants to learn<br>
 </picture>
 
 <!-- START_SECTION:daily-word -->
-<h1 align="center">🌟 今日の言葉　🌟</h1>
+## 🌟 今日の言葉
 
 **2025年06月13日 (金曜日)**
 
 <div align="center">
 
-### Flâner
+### 風雅
 
-**🇫🇷**
+**🇯🇵**
 
-*フラネ*
+*ふうが*
 
-**「街をぶらぶら散歩する楽しみ」**
+**「上品で風流な趣」**
 
 </div>
 
