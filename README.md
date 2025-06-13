@@ -1,47 +1,15 @@
-# 📚 今日の言葉 - Daily Word
+<h1 align="center">🌸 Welcome to reireu's repo 🌸</h1>
 
-毎日新しい言葉を学びましょう！世界中の様々な言語から、その日の特別な言葉をお届けします。
+used before<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,ruby,python,postgres)](https://skillicons.dev)<br>
+wants to learn<br>
+[![My Skills](https://skillicons.dev/icons?i=react,ts,aws,cpp)](https://skillicons.dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reireu/reireu/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reireu/reireu/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/reireu/reireu/master/img/snake.svg">
+</picture>
 
-
-## 🌟 今日の言葉
-
-**エラー**: 今日の言葉を取得できませんでした。data/words.csv ファイルを確認してください。
-
-
-## 📝 使い方
-
-1. `data/words.csv` ファイルに学習したい言葉を追加してください
-2. GitHub Actionsが毎日自動的にREADME.mdを更新します
-3. 毎日違う言葉が表示されます
-
-## 📊 CSVファイルの形式
-
-```csv
-言葉,話されている国（国旗）,日本語読み,日本語の意味
-Hello,🇺🇸 English (アメリカ),ハロー,こんにちは
-Bonjour,🇫🇷 French (フランス),ボンジュール,こんにちは
-Hola,🇪🇸 Spanish (スペイン),オラ,こんにちは
-Guten Tag,🇩🇪 German (ドイツ),グーテン・ターク,こんにちは
-Ciao,🇮🇹 Italian (イタリア),チャオ,こんにちは / さようなら
-안녕하세요,🇰🇷 Korean (韓国),アンニョンハセヨ,こんにちは
-你好,🇨🇳 Chinese (中国),ニーハオ,こんにちは
-Привет,🇷🇺 Russian (ロシア),プリヴィエット,こんにちは
-```
-
-## ⚙️ セットアップ
-
-1. このリポジトリをフォークまたはクローン
-2. `data/words.csv` ファイルを作成し、学習したい言葉を追加
-3. GitHub Actionsが自動的に毎日更新します
-
-## 🤖 自動更新
-
-- **更新時間**: 毎日 09:00 JST
-- **更新方法**: GitHub Actions による自動コミット
-- **同じ日なら同じ言葉**: 日付ベースのシード値を使用
-
----
-
-*最終更新: 2025-06-13 15:47:36 JST*
-
-*This README is automatically updated daily by GitHub Actions* 🚀
+<!-- START_SECTION:daily-word -->
+<!-- ここに今日の言葉が自動的に挿入されます -->
+<!-- END_SECTION:daily-word -->
