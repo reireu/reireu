@@ -13,7 +13,7 @@ def get_todays_word(csv_file='data/words.csv'):
     """CSVファイルから今日の言葉を取得"""
     try:
         # CSVファイルを読み込み
-        df = pd.read_csv(csv_file, encoding='utf-8')
+        df = pd.read_csv(data/words.csv, encoding='utf-8')
         
         # 必要な列があるかチェック
         required_columns = ['言葉', '話されている国（国旗）', '日本語読み', '日本語の意味']
