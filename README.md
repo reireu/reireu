@@ -11,5 +11,21 @@ wants to learn<br>
 </picture>
 
 <!-- START_SECTION:daily-word -->
-<!-- ここに今日の言葉が自動的に挿入されます -->
+## 🌟 今日の言葉
+
+**2025年06月13日 (金曜日)**
+
+<div align="center">
+
+### Flâner
+
+**🇫🇷**
+
+*フラネ*
+
+**「街をぶらぶら散歩する楽しみ」**
+
+</div>
+
+---
 <!-- END_SECTION:daily-word -->
