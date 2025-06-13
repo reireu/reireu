@@ -1,0 +1,39 @@
+name: Update Daily Word
+
+on:
+  schedule:
+    # 毎日 9:00 JST (00:00 UTC) に実行
+    - cron: '0 0 * * *'
+  workflow_dispatch: 
+
+jobs:
+  update-word:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        pip install pandas
+        
+    - name: Update daily word
+      run: python scripts/update_daily_word.py
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🌟 今日の言葉を更新: $(date '+%Y-%m-%d')"
+          git push
+        fi
