@@ -11,7 +11,7 @@ wants to learn<br>
 </picture>
 
 <!-- START_SECTION:daily-word -->
-## 🌟 今日の言葉
+<h1 align="center">🌟 今日の言葉 🌟</h1>
 
 **2025年06月13日 (金曜日)**
 
