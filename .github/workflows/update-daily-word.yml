@@ -9,8 +9,10 @@ on:
     branches: [ main, master ] 
 
 jobs:
-  update-word:
+  update-message:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write 
     
     steps:
     - name: Checkout repository
