@@ -21,13 +21,13 @@ wants to learn<br>
 
 <div align="center">
 
-### Dépaysement
+### Chuchoter
 
 **🇫🇷**
 
-*デペイゾマン*
+*シュショテ*
 
-**「非日常感、新鮮さ」**
+**「ひそひそ話す、ささやく」**
 
 </div>
 
