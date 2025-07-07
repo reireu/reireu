@@ -17,17 +17,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年07月06日 (日曜日)**
+**2025年07月07日 (月曜日)**
 
 <div align="center">
 
-### Shundor
+### Upepo
 
-**🇧🇩**
+**🇹🇿**
 
-*シャンドル*
+*ウペポ*
 
-**「美しい」**
+**「そよ風」**
 
 </div>
 
