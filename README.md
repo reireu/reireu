@@ -2,6 +2,7 @@
 
 Data science student interested in writing code that makes life a little easier<br>
 <strong>detail is on https://github.com/reireu/rei-profile</strong><br>
+![Serena Kurashina](https://github.com/user-attachments/assets/b4fd46f7-863f-465d-8806-a3ea62e52f80)
 
 used before<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,ruby,python,postgres)](https://skillicons.dev)<br>
