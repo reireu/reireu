@@ -29,13 +29,13 @@ wants to learn<br>
 
 <div align="center">
 
-### Chuchoter
+### Epiphany
 
-**🇫🇷**
+**🇺🇸**
 
-*シュショテ*
+*エピファニー*
 
-**「ひそひそ話す、ささやく」**
+**「ふとした悟りや閃き」**
 
 </div>
 
