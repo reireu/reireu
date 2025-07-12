@@ -1,5 +1,11 @@
 <h1 align="center">🌸 Welcome to reireu's repo 🌸</h1>
 
+<p align="center">
+  <a href="https://github.com/tubakhxn">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Serena;Data%20Scientist;Code%20can%20make%20life%20easier&font=Great+Vibes&center=true&vCenter=true&width=600&height=100&color=3e6d9c&size=30">
+  </a>
+</p>
+
 Data science student interested in writing code that makes life a little easier<br>
 <strong>detail is on https://github.com/reireu/rei-profile</strong><br>
 
