@@ -30,13 +30,13 @@ wants to learn<br>
 
 <div align="center">
 
-### Epiphany
+### Dépaysement
 
-**🇺🇸**
+**🇫🇷**
 
-*エピファニー*
+*デペイゾマン*
 
-**「ふとした悟りや閃き」**
+**「非日常感、新鮮さ」**
 
 </div>
 
