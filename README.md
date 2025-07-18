@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年07月17日 (木曜日)**
+**2025年07月18日 (金曜日)**
 
 <div align="center">
 
-### Shundor
+### Dépaysement
 
-**🇧🇩**
+**🇫🇷**
 
-*シャンドル*
+*デペイゾマン*
 
-**「美しい」**
+**「非日常感、新鮮さ」**
 
 </div>
 
