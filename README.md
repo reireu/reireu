@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年07月21日 (月曜日)**
+**2025年07月22日 (火曜日)**
 
 <div align="center">
 
-### Whisper
+### Lullaby
 
 **🇺🇸**
 
-*ウィスパー*
+*ララバイ*
 
-**「小声で、柔らかく語る声」**
+**「子守唄」**
 
 </div>
 
