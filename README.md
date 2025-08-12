@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年08月11日 (月曜日)**
+**2025年08月12日 (火曜日)**
 
 <div align="center">
 
-### Whisper
+### Hakuna matata
 
-**🇺🇸**
+**🇹🇿**
 
-*ウィスパー*
+*ハクナ・マタタ*
 
-**「小声で、柔らかく語る声」**
+**「心配ないさ、問題なし」**
 
 </div>
 
