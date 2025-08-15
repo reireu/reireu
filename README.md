@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年08月14日 (木曜日)**
+**2025年08月15日 (金曜日)**
 
 <div align="center">
 
-### Chuchoter
+### Murmur
 
-**🇫🇷**
+**🇺🇸**
 
-*シュショテ*
+*マーマー*
 
-**「ひそひそ話す、ささやく」**
+**「小声のささやき」**
 
 </div>
 
