@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年08月15日 (金曜日)**
+**2025年08月16日 (土曜日)**
 
 <div align="center">
 
-### Murmur
+### Serendipity
 
 **🇺🇸**
 
-*マーマー*
+*セレンディピティ*
 
-**「小声のささやき」**
+**「偶然に幸運を見つける才能や出来事」**
 
 </div>
 
