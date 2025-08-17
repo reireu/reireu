@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年08月16日 (土曜日)**
+**2025年08月17日 (日曜日)**
 
 <div align="center">
 
-### Serendipity
+### Lullaby
 
 **🇺🇸**
 
-*セレンディピティ*
+*ララバイ*
 
-**「偶然に幸運を見つける才能や出来事」**
+**「子守唄」**
 
 </div>
 
