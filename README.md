@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年08月17日 (日曜日)**
+**2025年08月18日 (月曜日)**
 
 <div align="center">
 
-### Lullaby
+### Upepo
 
-**🇺🇸**
+**🇹🇿**
 
-*ララバイ*
+*ウペポ*
 
-**「子守唄」**
+**「そよ風」**
 
 </div>
 
