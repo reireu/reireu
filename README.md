@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年08月22日 (金曜日)**
+**2025年08月23日 (土曜日)**
 
 <div align="center">
 
-### Shundor
+### Lullaby
 
-**🇧🇩**
+**🇺🇸**
 
-*シャンドル*
+*ララバイ*
 
-**「美しい」**
+**「子守唄」**
 
 </div>
 
