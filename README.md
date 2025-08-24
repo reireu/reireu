@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年08月23日 (土曜日)**
+**2025年08月24日 (日曜日)**
 
 <div align="center">
 
-### Lullaby
+### Amani
 
-**🇺🇸**
+**🇹🇿**
 
-*ララバイ*
+*アマニ*
 
-**「子守唄」**
+**「平和、落ち着き」**
 
 </div>
 
