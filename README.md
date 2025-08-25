@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年08月24日 (日曜日)**
+**2025年08月25日 (月曜日)**
 
 <div align="center">
 
-### Amani
+### Upepo
 
 **🇹🇿**
 
-*アマニ*
+*ウペポ*
 
-**「平和、落ち着き」**
+**「そよ風」**
 
 </div>
 
