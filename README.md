@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年08月28日 (木曜日)**
+**2025年08月29日 (金曜日)**
 
 <div align="center">
 
-### Cholo
+### Haashi
 
 **🇧🇩**
 
-*チョロ*
+*ハーシ*
 
-**「行こう（親しみを込めて使う）」**
+**「笑い、微笑」**
 
 </div>
 
