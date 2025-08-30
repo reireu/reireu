@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年08月29日 (金曜日)**
+**2025年08月30日 (土曜日)**
 
 <div align="center">
 
-### Haashi
+### Lullaby
 
-**🇧🇩**
+**🇺🇸**
 
-*ハーシ*
+*ララバイ*
 
-**「笑い、微笑」**
+**「子守唄」**
 
 </div>
 
