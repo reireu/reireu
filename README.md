@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年08月30日 (土曜日)**
+**2025年08月31日 (日曜日)**
 
 <div align="center">
 
-### Lullaby
+### Euphoria
 
 **🇺🇸**
 
-*ララバイ*
+*ユーフォリア*
 
-**「子守唄」**
+**「とても幸せで多幸感に包まれた状態」**
 
 </div>
 
