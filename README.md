@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年09月05日 (金曜日)**
+**2025年09月06日 (土曜日)**
 
 <div align="center">
 
-### Whisper
+### Dépaysement
 
-**🇺🇸**
+**🇫🇷**
 
-*ウィスパー*
+*デペイゾマン*
 
-**「小声で、柔らかく語る声」**
+**「非日常感、新鮮さ」**
 
 </div>
 
