@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年09月10日 (水曜日)**
+**2025年09月11日 (木曜日)**
 
 <div align="center">
 
-### Murmur
+### Dépaysement
 
-**🇺🇸**
+**🇫🇷**
 
-*マーマー*
+*デペイゾマン*
 
-**「小声のささやき」**
+**「非日常感、新鮮さ」**
 
 </div>
 
