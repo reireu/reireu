@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年09月11日 (木曜日)**
+**2025年09月12日 (金曜日)**
 
 <div align="center">
 
-### Dépaysement
+### Upepo
 
-**🇫🇷**
+**🇹🇿**
 
-*デペイゾマン*
+*ウペポ*
 
-**「非日常感、新鮮さ」**
+**「そよ風」**
 
 </div>
 
