@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年09月16日 (火曜日)**
+**2025年09月17日 (水曜日)**
 
 <div align="center">
 
-### Upepo
+### Murmur
 
-**🇹🇿**
+**🇺🇸**
 
-*ウペポ*
+*マーマー*
 
-**「そよ風」**
+**「小声のささやき」**
 
 </div>
 
