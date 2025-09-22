@@ -13,7 +13,7 @@ Data science student interested in writing code that makes life a little easier<
 ![Serena Kurashina](https://github.com/user-attachments/assets/b4fd46f7-863f-465d-8806-a3ea62e52f80)
 
 used before<br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,ruby,python,postgres,php)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,ruby,python,unity,postgres,php)](https://skillicons.dev)<br>
 wants to learn<br>
 [![My Skills](https://skillicons.dev/icons?i=react,ts,aws,cpp)](https://skillicons.dev)<br>
 
