@@ -26,7 +26,7 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年10月14日 (火曜日)**
+**2025年10月15日 (水曜日)**
 
 <div align="center">
 
