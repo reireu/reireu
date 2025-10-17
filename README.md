@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年10月16日 (木曜日)**
+**2025年10月17日 (金曜日)**
 
 <div align="center">
 
-### Upepo
+### Hakuna matata
 
 **🇹🇿**
 
-*ウペポ*
+*ハクナ・マタタ*
 
-**「そよ風」**
+**「心配ないさ、問題なし」**
 
 </div>
 
