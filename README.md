@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年10月17日 (金曜日)**
+**2025年10月18日 (土曜日)**
 
 <div align="center">
 
-### Hakuna matata
+### Haashi
 
-**🇹🇿**
+**🇧🇩**
 
-*ハクナ・マタタ*
+*ハーシ*
 
-**「心配ないさ、問題なし」**
+**「笑い、微笑」**
 
 </div>
 
