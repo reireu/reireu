@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年10月18日 (土曜日)**
+**2025年10月19日 (日曜日)**
 
 <div align="center">
 
-### Haashi
+### Cholo
 
 **🇧🇩**
 
-*ハーシ*
+*チョロ*
 
-**「笑い、微笑」**
+**「行こう（親しみを込めて使う）」**
 
 </div>
 
