@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年11月04日 (火曜日)**
+**2025年11月05日 (水曜日)**
 
 <div align="center">
 
-### Murmur
+### Upepo
 
-**🇺🇸**
+**🇹🇿**
 
-*マーマー*
+*ウペポ*
 
-**「小声のささやき」**
+**「そよ風」**
 
 </div>
 
