@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年11月18日 (火曜日)**
+**2025年11月19日 (水曜日)**
 
 <div align="center">
 
-### Upepo
+### Dépaysement
 
-**🇹🇿**
+**🇫🇷**
 
-*ウペポ*
+*デペイゾマン*
 
-**「そよ風」**
+**「非日常感、新鮮さ」**
 
 </div>
 
