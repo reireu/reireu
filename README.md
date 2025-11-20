@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年11月19日 (水曜日)**
+**2025年11月20日 (木曜日)**
 
 <div align="center">
 
-### Dépaysement
+### Haashi
 
-**🇫🇷**
+**🇧🇩**
 
-*デペイゾマン*
+*ハーシ*
 
-**「非日常感、新鮮さ」**
+**「笑い、微笑」**
 
 </div>
 
