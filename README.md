@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年12月08日 (月曜日)**
+**2025年12月09日 (火曜日)**
 
 <div align="center">
 
-### Serendipity
+### Lullaby
 
 **🇺🇸**
 
-*セレンディピティ*
+*ララバイ*
 
-**「偶然に幸運を見つける才能や出来事」**
+**「子守唄」**
 
 </div>
 
