@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年12月09日 (火曜日)**
+**2025年12月10日 (水曜日)**
 
 <div align="center">
 
-### Lullaby
+### Epiphany
 
 **🇺🇸**
 
-*ララバイ*
+*エピファニー*
 
-**「子守唄」**
+**「ふとした悟りや閃き」**
 
 </div>
 
