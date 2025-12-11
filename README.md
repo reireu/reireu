@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年12月10日 (水曜日)**
+**2025年12月11日 (木曜日)**
 
 <div align="center">
 
-### Epiphany
+### Chuchoter
 
-**🇺🇸**
+**🇫🇷**
 
-*エピファニー*
+*シュショテ*
 
-**「ふとした悟りや閃き」**
+**「ひそひそ話す、ささやく」**
 
 </div>
 
