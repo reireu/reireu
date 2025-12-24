@@ -26,7 +26,7 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年12月23日 (火曜日)**
+**2025年12月24日 (水曜日)**
 
 <div align="center">
 
