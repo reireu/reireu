@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年12月28日 (日曜日)**
+**2025年12月29日 (月曜日)**
 
 <div align="center">
 
-### Upepo
+### Furaha
 
 **🇹🇿**
 
-*ウペポ*
+*フラハ*
 
-**「そよ風」**
+**「喜び、楽しい気持ち」**
 
 </div>
 
