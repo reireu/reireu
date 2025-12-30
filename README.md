@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年12月29日 (月曜日)**
+**2025年12月30日 (火曜日)**
 
 <div align="center">
 
-### Furaha
+### Shundor
 
-**🇹🇿**
+**🇧🇩**
 
-*フラハ*
+*シャンドル*
 
-**「喜び、楽しい気持ち」**
+**「美しい」**
 
 </div>
 
