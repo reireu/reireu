@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2025年12月30日 (火曜日)**
+**2025年12月31日 (水曜日)**
 
 <div align="center">
 
-### Shundor
+### Douceur
 
-**🇧🇩**
+**🇫🇷**
 
-*シャンドル*
+*ドゥスール*
 
-**「美しい」**
+**「優しさ、柔らかさ」**
 
 </div>
 
