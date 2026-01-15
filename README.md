@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年01月14日 (水曜日)**
+**2026年01月15日 (木曜日)**
 
 <div align="center">
 
-### Whisper
+### Murmur
 
 **🇺🇸**
 
-*ウィスパー*
+*マーマー*
 
-**「小声で、柔らかく語る声」**
+**「小声のささやき」**
 
 </div>
 
