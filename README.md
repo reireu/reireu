@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年01月24日 (土曜日)**
+**2026年01月25日 (日曜日)**
 
 <div align="center">
 
-### Amani
+### Furaha
 
 **🇹🇿**
 
-*アマニ*
+*フラハ*
 
-**「平和、落ち着き」**
+**「喜び、楽しい気持ち」**
 
 </div>
 
