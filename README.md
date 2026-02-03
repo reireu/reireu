@@ -26,17 +26,17 @@ wants to learn<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年02月02日 (月曜日)**
+**2026年02月03日 (火曜日)**
 
 <div align="center">
 
-### Chuchoter
+### Shundor
 
-**🇫🇷**
+**🇧🇩**
 
-*シュショテ*
+*シャンドル*
 
-**「ひそひそ話す、ささやく」**
+**「美しい」**
 
 </div>
 
