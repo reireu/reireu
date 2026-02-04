@@ -28,13 +28,13 @@ wants to learn<br>
 
 <div align="center">
 
-### Upepo
+### Whisper
 
-**🇹🇿**
+**🇺🇸**
 
-*ウペポ*
+*ウィスパー*
 
-**「そよ風」**
+**「小声で、柔らかく語る声」**
 
 </div>
 
