@@ -1,4 +1,3 @@
-<h1 align="center">🌸 Welcome to reireu's repo 🌸</h1>
 <h2 align="center">Data × Sound × Natural Language  </h2>
 
 <p align="center">
