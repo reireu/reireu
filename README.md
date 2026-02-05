@@ -19,13 +19,13 @@ wants to learn<br>
 
 <div align="center">
 
-### Serendipity
+### Chuchoter
 
-**🇺🇸**
+**🇫🇷**
 
-*セレンディピティ*
+*シュショテ*
 
-**「偶然に幸運を見つける才能や出来事」**
+**「ひそひそ話す、ささやく」**
 
 </div>
 
