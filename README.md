@@ -1,5 +1,5 @@
 Data science student building practical tools with NLP and data visualization<br>
-<strong>Detailed profile & projects → github.com/reireu/rei-profile</strong><br>
+<strong>Detailed profile & projects → https://github.com/reireu/rei-profile</strong><br>
 
 used before<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,ruby,python,unity,postgres,php,react,ts)](https://skillicons.dev)<br>
