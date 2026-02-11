@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年02月10日 (火曜日)**
+**2026年02月11日 (水曜日)**
 
 <div align="center">
 
-### Chuchoter
+### Shundor
 
-**🇫🇷**
+**🇧🇩**
 
-*シュショテ*
+*シャンドル*
 
-**「ひそひそ話す、ささやく」**
+**「美しい」**
 
 </div>
 
