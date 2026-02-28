@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年02月27日 (金曜日)**
+**2026年02月28日 (土曜日)**
 
 <div align="center">
 
-### Lullaby
+### Whisper
 
 **🇺🇸**
 
-*ララバイ*
+*ウィスパー*
 
-**「子守唄」**
+**「小声で、柔らかく語る声」**
 
 </div>
 
