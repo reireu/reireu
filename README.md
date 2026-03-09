@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年03月08日 (日曜日)**
+**2026年03月09日 (月曜日)**
 
 <div align="center">
 
-### Upepo
+### Furaha
 
 **🇹🇿**
 
-*ウペポ*
+*フラハ*
 
-**「そよ風」**
+**「喜び、楽しい気持ち」**
 
 </div>
 
