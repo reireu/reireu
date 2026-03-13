@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年03月12日 (木曜日)**
+**2026年03月13日 (金曜日)**
 
 <div align="center">
 
-### Murmur
+### Hakuna matata
 
-**🇺🇸**
+**🇹🇿**
 
-*マーマー*
+*ハクナ・マタタ*
 
-**「小声のささやき」**
+**「心配ないさ、問題なし」**
 
 </div>
 
