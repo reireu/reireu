@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年04月05日 (日曜日)**
+**2026年04月06日 (月曜日)**
 
 <div align="center">
 
-### Upepo
+### Amani
 
 **🇹🇿**
 
-*ウペポ*
+*アマニ*
 
-**「そよ風」**
+**「平和、落ち着き」**
 
 </div>
 
