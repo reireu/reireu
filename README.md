@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年05月09日 (土曜日)**
+**2026年05月10日 (日曜日)**
 
 <div align="center">
 
-### Dépaysement
+### Upepo
 
-**🇫🇷**
+**🇹🇿**
 
-*デペイゾマン*
+*ウペポ*
 
-**「非日常感、新鮮さ」**
+**「そよ風」**
 
 </div>
 
