@@ -13,7 +13,7 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年05月26日 (火曜日)**
+**2026年05月27日 (水曜日)**
 
 <div align="center">
 
