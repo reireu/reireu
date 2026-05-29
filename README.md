@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年05月28日 (木曜日)**
+**2026年05月29日 (金曜日)**
 
 <div align="center">
 
-### Shundor
+### Upepo
 
-**🇧🇩**
+**🇹🇿**
 
-*シャンドル*
+*ウペポ*
 
-**「美しい」**
+**「そよ風」**
 
 </div>
 
