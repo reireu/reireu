@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年05月29日 (金曜日)**
+**2026年05月30日 (土曜日)**
 
 <div align="center">
 
-### Upepo
+### Hakuna matata
 
 **🇹🇿**
 
-*ウペポ*
+*ハクナ・マタタ*
 
-**「そよ風」**
+**「心配ないさ、問題なし」**
 
 </div>
 
