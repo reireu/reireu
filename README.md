@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年06月19日 (金曜日)**
+**2026年06月20日 (土曜日)**
 
 <div align="center">
 
-### Haashi
+### Shundor
 
 **🇧🇩**
 
-*ハーシ*
+*シャンドル*
 
-**「笑い、微笑」**
+**「美しい」**
 
 </div>
 
