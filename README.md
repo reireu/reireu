@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年06月23日 (火曜日)**
+**2026年06月24日 (水曜日)**
 
 <div align="center">
 
-### Shundor
+### Lullaby
 
-**🇧🇩**
+**🇺🇸**
 
-*シャンドル*
+*ララバイ*
 
-**「美しい」**
+**「子守唄」**
 
 </div>
 
