@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年07月13日 (月曜日)**
+**2026年07月14日 (火曜日)**
 
 <div align="center">
 
-### Epiphany
+### Hakuna matata
 
-**🇺🇸**
+**🇹🇿**
 
-*エピファニー*
+*ハクナ・マタタ*
 
-**「ふとした悟りや閃き」**
+**「心配ないさ、問題なし」**
 
 </div>
 
