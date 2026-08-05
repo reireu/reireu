@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年08月04日 (火曜日)**
+**2026年08月05日 (水曜日)**
 
 <div align="center">
 
-### Hakuna matata
+### Bomba!
 
 **🇹🇿**
 
-*ハクナ・マタタ*
+*ボンバ！*
 
-**「心配ないさ、問題なし」**
+**「とても良い！すごい！」**
 
 </div>
 
