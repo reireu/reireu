@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年09月01日 (火曜日)**
+**2026年09月02日 (水曜日)**
 
 <div align="center">
 
-### Lullaby
+### Hakuna matata
 
-**🇺🇸**
+**🇹🇿**
 
-*ララバイ*
+*ハクナ・マタタ*
 
-**「子守唄」**
+**「心配ないさ、問題なし」**
 
 </div>
 
