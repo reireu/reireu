@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年09月30日 (水曜日)**
+**2026年10月01日 (木曜日)**
 
 <div align="center">
 
-### Chuchoter
+### Dépaysement
 
 **🇫🇷**
 
-*シュショテ*
+*デペイゾマン*
 
-**「ひそひそ話す、ささやく」**
+**「非日常感、新鮮さ」**
 
 </div>
 
