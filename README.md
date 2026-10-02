@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年10月01日 (木曜日)**
+**2026年10月02日 (金曜日)**
 
 <div align="center">
 
-### Dépaysement
+### Hakuna matata
 
-**🇫🇷**
+**🇹🇿**
 
-*デペイゾマン*
+*ハクナ・マタタ*
 
-**「非日常感、新鮮さ」**
+**「心配ないさ、問題なし」**
 
 </div>
 
