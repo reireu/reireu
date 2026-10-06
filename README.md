@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年10月05日 (月曜日)**
+**2026年10月06日 (火曜日)**
 
 <div align="center">
 
-### Shundor
+### Golpo
 
 **🇧🇩**
 
-*シャンドル*
+*ゴルポ*
 
-**「美しい」**
+**「物語、ストーリー」**
 
 </div>
 
