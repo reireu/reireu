@@ -13,17 +13,17 @@ used before<br>
 <!-- START_SECTION:daily-word -->
 ## 🌟 今日の言葉
 
-**2026年10月28日 (水曜日)**
+**2026年10月29日 (木曜日)**
 
 <div align="center">
 
-### Epiphany
+### Serendipity
 
 **🇺🇸**
 
-*エピファニー*
+*セレンディピティ*
 
-**「ふとした悟りや閃き」**
+**「偶然に幸運を見つける才能や出来事」**
 
 </div>
 
